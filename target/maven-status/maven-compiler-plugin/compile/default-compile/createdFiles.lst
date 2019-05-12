@@ -1,0 +1,6 @@
+src\main\application\Application.class
+src\main\wrapper\Wrapper.class
+src\main\repository\StudentRepository.class
+src\main\service\Service.class
+src\main\model\StudentDetails.class
+src\main\application\Controller.class
